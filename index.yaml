@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  important-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-04T10:53:17.3984394+02:00"
+    description: A Helm chart for Kubernetes
+    digest: e6b6169ad283b074c178d4002dabe02d8f37baf97b173dfc606927e463b6df77
+    name: important-chart
+    type: application
+    urls:
+    - https://github.com/Mikkelmedetk/helm-dependency-test/releases/download/important-chart-0.1.0/important-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-04T10:53:17.3984808+02:00"
